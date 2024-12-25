@@ -19,7 +19,7 @@
   - **Spy Robot**
       
 
-- 🌱 **Currently Learning**: Verilog, HDL, and Advanced PCB Design Techniques.  
+- 🌱 **Currently Learning**: Verilog, and Advanced PCB Design Techniques.  
 
 - 💬 **Ask me about**: VLSI Design, IoT Systems, Embedded Systems, High-Speed PCB Design, and Machine Learning applications in Electronics.  
 
@@ -32,4 +32,4 @@
 <a href="https://instagram.com/kritika.tripathi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kritika.tripathi__" height="30" width="40" /></a>
 </p>
 
-- **Languages and Tools**: Java, Python, Verilog, MySQL, MATLAB, and basics of HDL.
+- **Languages and Tools**: Java, Python, Verilog, C, MATLAB.
